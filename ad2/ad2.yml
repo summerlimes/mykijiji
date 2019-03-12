@@ -1,0 +1,23 @@
+postAdForm.title: Testing service 2
+postAdForm.mapAddress: 585 Dundas St E, Toronto, ON M5A 2B7, Canada
+postAdForm.phoneNumber: '6478644671'
+postAdForm.adType: OFFER
+postAdForm.city: Toronto
+postAdForm.province: Ontario
+postAdForm.postalCode: M5A 2B7
+postAdForm.addressCity: Toronto
+postAdForm.addressProvince: Ontario
+postAdForm.addressPostalCode: M5A 2B7
+postAdForm.geocodeLat: '43.6598313'
+postAdForm.geocodeLng: '-79.3625777'
+postAdForm.locationId: 1700273
+PostalLat: '43.6598313'
+PostalLng: '-79.3625777'
+locationLevel0: 1700272
+topAdDuration: '7'
+submitType: saveAndCheckout
+postAdForm.description: 'Running a test ad'
+categoryId: 160
+image_paths: [image2.jpg]
+username: fahim.shahreer95@gmail.com
+password: apqrl12321
